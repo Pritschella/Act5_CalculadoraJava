@@ -25,7 +25,7 @@ class Operaciones{
 		return n1/n2;
 	}
 	public double residuo(double n1, double n2) {
-		return n1%n2;
+		return n1%n2; 
 	}
 	public double raiz(double n1) {
 		return (Math.sqrt(n1));
